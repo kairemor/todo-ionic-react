@@ -1,0 +1,7 @@
+{
+  "name": "reactBase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
